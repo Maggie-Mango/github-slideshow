@@ -1,5 +1,4 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Maggie-Mango's slide!"
 ---
-Maggie's text is here
